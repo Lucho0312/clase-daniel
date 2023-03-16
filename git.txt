@@ -1,2 +1,4 @@
 git init
 git remote add origin https://github.com/Lucho0312/clase-daniel.git
+
+primera clase marzo 16
